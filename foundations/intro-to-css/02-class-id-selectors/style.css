@@ -1,1 +1,8 @@
-/* Add CSS Styling */
+.redclass {
+    background-color: #ffb6c1;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.threeclass {
+    font-size: 25px;
+}
