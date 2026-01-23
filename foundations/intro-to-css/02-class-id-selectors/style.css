@@ -4,5 +4,10 @@
 }
 
 .threeclass {
-    font-size: 25px;
+    font-size: 24px;
+}
+
+#blueid {
+    color: #0000ff;
+    font-size: 36px;
 }
